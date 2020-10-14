@@ -1,0 +1,12 @@
+{
+  "name": "@inboxfactory/prettier-config",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "peerDependencies": {
+    "prettier": "^2.1.2"
+  }
+}
