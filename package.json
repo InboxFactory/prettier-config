@@ -1,7 +1,6 @@
 {
   "name": "@inboxfactory/prettier-config",
   "version": "0.1.0",
-  "private": true,
   "main": "prettier.config.js",
   "files": [
     "prettier.config.js"
