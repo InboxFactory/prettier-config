@@ -1,6 +1,11 @@
 {
   "name": "@inboxfactory/prettier-config",
   "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/InboxFactory/prettier-config"
+  },
   "main": "prettier.config.js",
   "files": [
     "prettier.config.js"
